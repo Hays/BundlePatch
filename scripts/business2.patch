@@ -1,0 +1,16 @@
+@@ -13952,31 +13952,82 @@
+ n(e,
+-r,a,i,l)%7B
++t,r,n,l)%7BObject.defineProperty(n,%22__esModule%22,%7Bvalue:!0%7D);
+ var 
+-n=r
++o=t
+ (l%5B0%5D)
+-;
++,a=
+ babe
+@@ -14061,17 +14061,744 @@
+ ult(
+-n);r(l%5B1%5D
++o),i=t(l%5B1%5D),s=(function(e)%7Bfunction t()%7Breturn babelHelpers.classCallCheck(this,t),babelHelpers.possibleConstructorReturn(this,(t.__proto__%7C%7CObject.getPrototypeOf(t)).apply(this,arguments))%7Dreturn babelHelpers.inherits(t,e),babelHelpers.createClass(t,%5B%7Bkey:%22render%22,value:function()%7Breturn a.default.createElement(i.View,%7Bstyle:c.container%7D,a.default.createElement(i.Text,%7Bstyle:c.welcome%7D,%22Hello Hays!!!%22))%7D%7D%5D),t%7D)(o.Component);n.default=s;var c=i.StyleSheet.create(%7Bcontainer:%7Bflex:1,justifyContent:'center',alignItems:'center',backgroundColor:'#F5FCFF'%7D,welcome:%7BfontSize:20,textAlign:'center',margin:10%7D,instructions:%7BtextAlign:'center',color:'#333333',marginBottom:5%7D%7D);i.AppRegistry.registerComponent('hello',function()%7Breturn s%7D
+ )%7D,1
