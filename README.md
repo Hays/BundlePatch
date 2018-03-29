@@ -1,0 +1,2 @@
+# ReactNativePatch
+通过补丁的方式下发patch文件，然后与公共库的jsbundle合成最终使用的jsbundle
